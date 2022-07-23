@@ -1,6 +1,6 @@
 # README<br><br>
 
-## Exploring Common SQL Queries, Aggregate Functions, and Subqueries<br><br>
+## Exploring Common SQL Queries, Aggregate Functions, Subqueries, and Views<br><br>
 
 ### Summary
 In this project, I will share some of the most common SQL queries and subqueries using large datasets from *Google BigQuery*. There are several aggregate functions that I would use on this project such as: *count(), min(), max(), and sum()*. I will explain the use for each of these functions as we go along with the chapters of this presentation. Last, I will create a view in SQL to store the queries I have scripted for this project.<br><br>
