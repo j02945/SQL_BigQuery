@@ -176,7 +176,7 @@ LIMIT 10
 ```
 
 ### Subquery Results:
-## ![results](https://i.ibb.co/wcfKMHB/subquery-results.jpg)
+## ![results](https://i.ibb.co/M1HMnxC/subquery-results.jpg)
 
 ### Create Views
 
@@ -230,7 +230,7 @@ SELECT * FROM `my_dataset.data_metrics_view`;
 ```
 
 ### Create View Results
-### ![create view](https://i.ibb.co/p1bsKGG/view-results.jpg)
+### ![create view](https://i.ibb.co/4dyY61R/view-results.jpg)
 
 ### Closing
 I was able to ask questions about the data, filter the data as needed, and identify min and max values within a large dataset. I ranked and organized in a list of top 10 the lowest and highest scores using operators and clauses, and I also analyzed the views counts per posts. Furthermore, I used aggregate functions to quantify scores, views, comments, users, and posts. I used subqueries to pivot data and get a high level view of the dataset. Last, I create views to speed up the process and eliminate redundancy in some of the queries.
