@@ -12,7 +12,7 @@ Create a new project so that you can query the public dataset using [Google BigQ
 
 
 ### Getting to Know the Data
-Every time you are starting a new project with a a new dataset, it is recommended to spend time browsing it to get familiar with the information in the dataset. In this case, I will be using the *stackoverflow* dataset from bigquery-public-data. Getting to know the schema, details, and running a preview of the dataset are part of the introduction.
+Every time you are starting a new project with a new dataset, it is recommended to spend time browsing it to get familiar with the information in the dataset. In this case, I will be using the *stackoverflow* dataset from bigquery-public-data. Getting to know the schema, details, and running a preview of the dataset are part of the introduction.
 
 View the schema of a dataset in BigQuery:
 ```
@@ -233,4 +233,4 @@ SELECT * FROM `my_dataset.data_metrics_view`;
 ### ![create view](https://i.ibb.co/4dyY61R/view-results.jpg)
 
 ### Closing
-I was able to ask questions about the data, filter the data as needed, and identify min and max values within a large dataset. I ranked and organized in a list of top 10 the lowest and highest scores using operators and clauses, and I also analyzed the views counts per posts. Furthermore, I used aggregate functions to quantify scores, views, comments, users, and posts. I used subqueries to pivot data and get a high level view of the dataset. Last, I create views to speed up the process and eliminate redundancy in some of the queries.
+I was able to ask questions about the data, filter the data as needed, and identify min and max values within a large dataset. I ranked and organized in a list of top 10 the lowest and highest scores using operators and clauses, and I also analyzed the views counts per posts. Furthermore, I used aggregate functions to quantify scores, views, comments, users, and posts. I used subqueries to pivot data and get a high level view of the dataset. Last, I created views to speed up the process and eliminate redundancy in some of the queries.
